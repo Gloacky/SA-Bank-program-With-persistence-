@@ -1,0 +1,14 @@
+# Ignore object files, compiled binaries, etc.
+*.o
+*.out
+*.exe
+*.a
+
+# Ignore VSCode workspace files
+.vscode/
+
+# Ignore macOS Finder system files (if applicable)
+.DS_Store
+
+# Ignore other IDE folders, such as .idea for JetBrains-based IDEs
+.idea/
